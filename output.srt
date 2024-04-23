@@ -1,0 +1,184 @@
+1
+00:00:03,340 --> 00:00:03,773
+Speaker 1: Mary?
+
+2
+00:00:03,793 --> 00:00:03,833
+Speaker 0: Hi.
+
+3
+00:00:05,514 --> 00:00:06,714
+Speaker 0: Hello.
+
+4
+00:00:06,914 --> 00:00:08,835
+Speaker 1: I'm Susan Thompson, resource manager.
+
+5
+00:00:09,395 --> 00:00:09,615
+Speaker 0: Hi.
+
+6
+00:00:09,675 --> 00:00:12,796
+Speaker 0: I'm Mary Hansen, and I'm applying for one of your kitchen jobs.
+
+7
+00:00:13,136 --> 00:00:13,596
+Speaker 0: Great.
+
+8
+00:00:13,756 --> 00:00:15,237
+Speaker 0: Here's a copy of my resume.
+
+9
+00:00:15,897 --> 00:00:16,257
+Speaker 0: Great.
+
+10
+00:00:16,297 --> 00:00:17,037
+Speaker 0: Have a seat, Mary.
+
+11
+00:00:17,077 --> 00:00:17,717
+Speaker 0: Thank you.
+
+12
+00:00:23,299 --> 00:00:25,680
+Speaker 1: Mary, do you have any experience working in the kitchen?
+
+13
+00:00:26,220 --> 00:00:28,060
+Speaker 0: No, but I want to learn.
+
+14
+00:00:28,080 --> 00:00:30,321
+Speaker 0: I work hard, and I cook a lot at home.
+
+15
+00:00:31,541 --> 00:00:31,962
+Speaker 1: OK.
+
+16
+00:00:32,101 --> 00:00:33,142
+Speaker 0: Well, tell me about yourself.
+
+17
+00:00:34,201 --> 00:00:37,442
+Speaker 0: Well, I love to learn new things.
+
+18
+00:00:38,022 --> 00:00:39,623
+Speaker 0: I'm very organized.
+
+19
+00:00:40,563 --> 00:00:43,224
+Speaker 0: And I follow directions exactly.
+
+20
+00:00:44,444 --> 00:00:48,346
+Speaker 0: That's why my boss at my last job made me a trainer.
+
+21
+00:00:49,286 --> 00:00:55,308
+Speaker 0: And the company actually gave me a special certificate for coming to work on time every day for a year.
+
+22
+00:00:56,528 --> 00:01:01,650
+Speaker 0: And I'm taking an English class to improve my writing skills.
+
+23
+00:01:02,219 --> 00:01:03,120
+Speaker 1: That's great.
+
+24
+00:01:03,840 --> 00:01:05,181
+Speaker 0: Why did you leave your last job?
+
+25
+00:01:05,701 --> 00:01:08,443
+Speaker 0: It was graveyard, and I need to work days.
+
+26
+00:01:08,463 --> 00:01:09,804
+Speaker 1: Oh, I see.
+
+27
+00:01:09,824 --> 00:01:11,565
+Speaker 0: Well, what hours can you work?
+
+28
+00:01:12,346 --> 00:01:13,767
+Speaker 0: From 8 AM until 5 PM.
+
+29
+00:01:14,708 --> 00:01:15,048
+Speaker 0: OK.
+
+30
+00:01:15,068 --> 00:01:16,749
+Speaker 0: Well, do you have any questions for me, Mary?
+
+31
+00:01:17,489 --> 00:01:17,970
+Speaker 0: Yes.
+
+32
+00:01:18,330 --> 00:01:20,391
+Speaker 0: What kind of training is needed?
+
+33
+00:01:21,472 --> 00:01:22,173
+Speaker 1: Not a lot.
+
+34
+00:01:22,433 --> 00:01:24,814
+Speaker 1: Most new workers can learn everything the first day.
+
+35
+00:01:24,834 --> 00:01:26,636
+Speaker 0: Do you have any other questions?
+
+36
+00:01:27,376 --> 00:01:29,098
+Speaker 0: No, I don't think so.
+
+37
+00:01:29,418 --> 00:01:32,901
+Speaker 0: But I've heard a lot of good things about your company, and I would really like to work here.
+
+38
+00:01:33,501 --> 00:01:35,463
+Speaker 0: Well, I have a few more interviews to do today.
+
+39
+00:01:35,483 --> 00:01:35,523
+Speaker 1: OK.
+
+40
+00:01:35,983 --> 00:01:38,065
+Speaker 1: But I will call you tomorrow if you get the job.
+
+41
+00:01:38,265 --> 00:01:38,665
+Speaker 0: OK.
+
+42
+00:01:38,725 --> 00:01:39,826
+Speaker 1: It was sure nice to meet you.
+
+43
+00:01:39,886 --> 00:01:40,787
+Speaker 0: Nice meeting you too.
+
+44
+00:01:40,847 --> 00:01:42,068
+Speaker 0: Thank you so much for your time.
+
+45
+00:01:42,188 --> 00:01:42,848
+Speaker 0: Yes, good luck.
+
+46
+00:01:42,928 --> 00:01:43,269
+Speaker 0: Thank you.
+
